@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EAFE375B-33F7-4CB9-BBC1-DB2537A0F548"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6F1B4EB-3FDF-4FDC-9C36-6C161F904803"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DictVsArray/Source/Data/DictTimes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "create(numberOfItems:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "325F5A5A-5B10-4ED4-B289-E3509F5BDD23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DictVsArray/Source/Tools/TimeTools.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "runClosureForTime(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CB9A4D0-6F6F-4B5F-94E6-B0EA6CD19F0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DictVsArray/Source/Data/ArrayTimes.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "create(numberOfItems:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5CB9A4D0-6F6F-4B5F-94E6-B0EA6CD19F0B - 78774b2fb1868209"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DictVsArray.ArrayTimes.create(numberOfItems: Swift.Int) -&gt; ()"
+                  moduleName = "DictVsArray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/petracackov/Documents/iOS/Oblak/DictVsArray/DictVsArray/DictVsArray/Source/Data/ArrayTimes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5CB9A4D0-6F6F-4B5F-94E6-B0EA6CD19F0B - e6d90a8d8e1ac1fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DictVsArray.ArrayTimes.create(numberOfItems: Swift.Int) -&gt; ()"
+                  moduleName = "DictVsArray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/petracackov/Documents/iOS/Oblak/DictVsArray/DictVsArray/DictVsArray/Source/Data/ArrayTimes.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97E654C5-2AF2-4EBF-890C-DE3BB2680B2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DictVsArray/Source/UserInterface/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "runTest(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "97E654C5-2AF2-4EBF-890C-DE3BB2680B2C - 3b8fcc42aa0f39f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DictVsArray.MainViewController.(runTest in _2CC29BE8695AE0911BAA6F17735C9BA3)(Any) -&gt; ()"
+                  moduleName = "DictVsArray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/petracackov/Documents/iOS/Oblak/DictVsArray/DictVsArray/DictVsArray/Source/UserInterface/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "97E654C5-2AF2-4EBF-890C-DE3BB2680B2C - 5f4ab3beda1fe4b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in DictVsArray.MainViewController.(runTest in _2CC29BE8695AE0911BAA6F17735C9BA3)(Any) -&gt; ()"
+                  moduleName = "DictVsArray"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/petracackov/Documents/iOS/Oblak/DictVsArray/DictVsArray/DictVsArray/Source/UserInterface/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81653A16-5538-4E0A-A9B7-31F447DCDD2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DictVsArray/Source/UserInterface/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "runTest(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
